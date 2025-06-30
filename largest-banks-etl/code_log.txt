@@ -1,0 +1,24 @@
+2025-06-30 15:55:38 : Preliminares completos. Iniciando ETL
+2025-06-30 15:55:41 : Extracción completada. Iniciando transformación
+2025-06-30 15:55:41 : Transformación completada. Iniciando carga
+2025-06-30 15:55:42 : Datos guardados en CSV
+2025-06-30 15:55:42 : Conexión SQL iniciada
+2025-06-30 15:55:42 : Datos cargados en la base de datos, ejecutando consultas
+2025-06-30 15:55:42 : Proceso completo
+2025-06-30 15:55:42 : Conexión SQL cerrada
+2025-06-30 16:24:25 : Preliminares completos. Iniciando ETL
+2025-06-30 16:24:28 : Extracción completada. Iniciando transformación
+2025-06-30 16:24:28 : Transformación completada. Iniciando carga
+2025-06-30 16:24:28 : Datos guardados en CSV
+2025-06-30 16:24:28 : Conexión SQL iniciada
+2025-06-30 16:24:29 : Datos cargados en la base de datos, ejecutando consultas
+2025-06-30 16:24:29 : Proceso completo
+2025-06-30 16:24:29 : Conexión SQL cerrada
+2025-06-30 16:32:57 : Preliminares completos. Iniciando ETL
+2025-06-30 16:33:03 : Extracción completada. Iniciando transformación
+2025-06-30 16:33:03 : Transformación completada. Iniciando carga
+2025-06-30 16:33:03 : Datos guardados en CSV
+2025-06-30 16:33:03 : Conexión SQL iniciada
+2025-06-30 16:33:03 : Datos cargados en la base de datos, ejecutando consultas
+2025-06-30 16:33:03 : Proceso completo
+2025-06-30 16:33:03 : Conexión SQL cerrada
